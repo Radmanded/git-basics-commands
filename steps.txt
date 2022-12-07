@@ -46,7 +46,7 @@ git commit -m "Add lab02.py file"
 git status
 
 ** Step 6 **
-git push origin master
+git push origin main
 git status
 
 ** Step 10 **
@@ -62,7 +62,7 @@ git checkout -b staging
 print('New branch')
 
 ** Step 3 **
-git diff master
+git diff main
 
 ** Step 4 **
 git add lab02.py
