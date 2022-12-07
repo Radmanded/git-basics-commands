@@ -18,6 +18,8 @@ Use GitHub information:
 git config --global user.name "student"
 git config --global user.email student@dev.local
 
+> Note: change user.name "student" to your github username and user.email student@dev.local to your github email 
+
 ** Step  **
 git clone https://github.com/Radmanded/git-basics-commands.git
 
