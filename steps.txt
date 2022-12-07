@@ -75,11 +75,11 @@ git commit -m "Add print statement"
 git branch
 
 ** Step 2 **
-git checkout master
+git checkout main
 
 ** Step 3 **
 git merge staging
 
 ** Step 4 **
 git status
-git push origin  master
+git push origin  main
